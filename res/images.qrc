@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Astronaut">images/astronaut.jpg</file>
+        <file alias="Color Chart (Digital)">images/chart_digital.jpg</file>
+        <file alias="Color Chart (Patterned)">images/chart_pattern.jpg</file>
+        <file alias="Color Chart (Photo)">images/chart_photo.bmp</file>
+        <file alias="Color Bars (10 Color)">images/color_bars_10_color.jpg</file>
+        <file alias="Color Bars (RGB)">images/color_bars_RGB.png</file>
+        <file alias="Color Circle">images/color_circle.png</file>
+        <file alias="Color Circle (false)">images/color_circle_false.png</file>
+        <file alias="Color Disk">images/color_disk.jpg</file>
+        <file alias="Color Names">images/color_names.jpg</file>
+        <file alias="Lenna">images/Lenna.png</file>
+        <file alias="Strawberries">images/strawberries.png</file>
+        <file alias="Venn Diagram">images/venn_diagram.jpeg</file>
+        <file alias="Visible Spectrum">images/visible_spectrum.jpg</file>
+    </qresource>
+</RCC>
